@@ -22,10 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Virtual Machince
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install IIS in Windows
+- Install PHP Manager for IIS, Rewrite module, PHP 7.3.8, MySql, Heidi SQL and VC_redist.x86.exe
+- Install osTicket and open when done
 
 <h2>Installation Steps</h2>
 
